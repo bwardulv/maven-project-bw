@@ -9,6 +9,7 @@ import org.mule.tck.junit4.FunctionalTestCase;
 // Test snippet: http://bit.ly/1Uz2vEN
 
 
+@SuppressWarnings("unused")
 public class HelloMavenTest extends FunctionalTestCase {
 	
 	@Test
